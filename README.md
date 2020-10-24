@@ -10,4 +10,4 @@ Hello! I'm currently a 3rd year student studying computer science at UC Berkeley
 
 [CS184, Project 1: Rasterizer](https://achen0816.github.io/rasterizer/)
 
-Check out my GitHub page [here!](https://github.com/achen0816)
+[View my GitHub profile here!](https://github.com/achen0816)
