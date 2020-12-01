@@ -10,13 +10,13 @@ In spring 2020, I took a class called CS 184: Computer Graphics and Imaging. Thi
 
 Check out the projects I've done in this class! Each project was prety challenging, with having to understand the concepts and then translating those ideas into code, but I enjoyed doing each one and the feeling of finally completing a project was very satisfying and rewarding!
 
-[Cloth Simulator](https://achen0816.github.io/clothsim/)
+[**Cloth Simulator**](https://achen0816.github.io/clothsim/)
 
-[PathTracer](https://achen0816.github.io/pathtracer/)
+[**PathTracer**](https://achen0816.github.io/pathtracer/)
 
-[MeshEdit](https://achen0816.github.io/meshedit/)
+[**MeshEdit**](https://achen0816.github.io/meshedit/)
 
-[Rasterizer](https://achen0816.github.io/rasterizer/)
+[**Rasterizer**](https://achen0816.github.io/rasterizer/)
 
 ---
 
@@ -24,9 +24,9 @@ Check out the projects I've done in this class! Each project was prety challengi
 
 In spring 2020, I took the student-run animation course called the UC Berkeley Undergraduate Graphics Group (UCBUGG) Decal. I was always interested in animation, but I don't have too much artistic skill. UCBUGG is a course designed for animation beginners, and the only requirement is a passion for animation and a desire to learn. Throughout the semester, we learned the basics of animation and worked in groups of four to create our very own one minute animated film. The film I worked on is called *Comfort Zone*, and it's about a bunny who leaves his comfort zone to discover a new and exciting world of color.
 
-Click on the thumbnail image below to watch *Comfort Zone* on YouTube!
+**Click on the thumbnail image below to watch *Comfort Zone* on YouTube!**
 
-[![Comfort Zone](http://img.youtube.com/vi/qD7qt9tEBFg/0.jpg)](http://www.youtube.com/watch?v=qD7qt9tEBFg)
+[[**Comfort Zone**](http://img.youtube.com/vi/qD7qt9tEBFg/0.jpg)](http://www.youtube.com/watch?v=qD7qt9tEBFg)
 
 I worked on the scene from 0:39 to 0:44, where a red snake comes into view. I did everything involving the snake, from modeling to shading to rigging. Additionally, I provided the lighting and did all the animating of both the bunny and the snake for this whole scene.
 
