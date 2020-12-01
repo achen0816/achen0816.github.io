@@ -32,4 +32,4 @@ I worked on the scene from 0:39 to 0:44, where a red snake comes into view. I di
 
 ---
 
-[View my GitHub profile here!](https://github.com/achen0816)
+[**View my GitHub profile here!**](https://github.com/achen0816)
