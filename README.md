@@ -22,7 +22,7 @@ Check out the projects I've done in this class! Each project was prety challengi
 
 ## Comfort Zone
 
-In spring 2020, I took the student-run animation course called the UC Berkeley Undergraduate Graphics Group (UCBUGG) Decal. I was always interested in animation, but I don't have too much artistic skill. UCBUGG is a course designed for animation beginners, and the only requirement is a passion for animation and a desire to learn. Throughout the semester, we learned the basics of animation and worked in groups of four to create our very own one minute animated film. The film I worked on is called *Comfort Zone*, and it's about a bunny who leaves his comfort zone to discover a new and exciting world of color.
+In spring 2020, I took the student-run animation course called the UC Berkeley Undergraduate Graphics Group (UCBUGG) Decal. I was always interested in animation, but I don't have too much artistic skill. UCBUGG is a course designed for animation beginners, and the only requirement is a passion for animation and a desire to learn. Throughout the semester, we learned the basics of animation and how to use Maya and worked in groups of four to create our very own one minute animated film. The film I worked on is called *Comfort Zone*, and it's about a bunny who leaves his comfort zone to discover a new and exciting world of color.
 
 **Click on the thumbnail image below to watch *Comfort Zone* on YouTube!**
 
