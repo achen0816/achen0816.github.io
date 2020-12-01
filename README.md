@@ -4,7 +4,7 @@ Hello! I'm currently a 3rd year student studying computer science at UC Berkeley
 
 ---
 
-### CS 184: Computer Graphics and Imaging
+## CS 184: Computer Graphics and Imaging
 
 In spring 2020, I took a class called CS 184: Computer Graphics and Imaging. This was one of the first upper division CS courses I've taken at UC Berkeley. I didn't know much about computer graphics before taking this class. I was just interested in animation and the intersection of art and technology and was highly curious and wanted to learn more. I loved taking CS 184 and learning about graphics and all its applications. It is definitely one of my favorite courses ever at UC Berkeley. From this class, I've developed a passion for graphics, and I'm currently working in a graphics research lab at UC Berkeley to further explore this interest.
 
