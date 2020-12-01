@@ -26,7 +26,7 @@ In spring 2020, I took the student-run animation course called the UC Berkeley U
 
 **Click on the thumbnail image below to watch *Comfort Zone* on YouTube!**
 
-[[**Comfort Zone**](http://img.youtube.com/vi/qD7qt9tEBFg/0.jpg)](http://www.youtube.com/watch?v=qD7qt9tEBFg)
+[![**Comfort Zone**](http://img.youtube.com/vi/qD7qt9tEBFg/0.jpg)](http://www.youtube.com/watch?v=qD7qt9tEBFg)
 
 I worked on the scene from 0:39 to 0:44, where a red snake comes into view. I did everything involving the snake, from modeling to shading to rigging. Additionally, I provided the lighting and did all the animating of both the bunny and the snake for this whole scene.
 
