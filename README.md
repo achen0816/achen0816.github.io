@@ -2,6 +2,8 @@
 
 Hello! I'm currently a 3rd year student studying computer science at UC Berkeley! This is a website where I can have some of the projects I've done in one place.
 
+To view my GitHub profile, click [here!](https://github.com/achen0816)
+
 ---
 
 ## CS 184: Computer Graphics and Imaging
@@ -29,7 +31,3 @@ In spring 2020, I took the student-run animation course called the UC Berkeley U
 [![**Comfort Zone**](http://img.youtube.com/vi/qD7qt9tEBFg/0.jpg)](http://www.youtube.com/watch?v=qD7qt9tEBFg)
 
 I worked on the scene from 0:39 to 0:44, where a red snake comes into view. I did everything involving the snake, from modeling to shading to rigging. Additionally, I provided the lighting and did all the animating of both the bunny and the snake for this whole scene.
-
----
-
-[**View my GitHub profile here!**](https://github.com/achen0816)
