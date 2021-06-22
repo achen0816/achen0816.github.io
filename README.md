@@ -2,7 +2,11 @@
 
 Hello! I'm currently a 3rd year student studying computer science at UC Berkeley! This is a website where I can have some of the projects I've done in one place.
 
-To view my GitHub profile, click [**here!**](https://github.com/achen0816)
+Have any questions? Want to get in contact? Email me [**here!**](achen0816@berkeley.edu) (I usually respond really quickly, and I swear I'm really friendly! :D)
+
+To see some things I've worked on and view my GitHub profile, click [**here!**](https://github.com/achen0816)
+
+I'm really passionate about game development and have published on itch.io. Click [**here**](https://angiegelo.itch.io/) to view my itch.io profile!
 
 ---
 
