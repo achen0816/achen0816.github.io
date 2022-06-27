@@ -1,8 +1,8 @@
 # Angela Chen
 
-Hello! I'm currently a 3rd year student studying computer science at UC Berkeley! This is a website where I can have some of the projects I've done in one place.
+Hello! I'm a recent graduate with a Bachelor's degree in Computer Science from UC Berkeley! This is a website where I can have some of the projects I've done in one place.
 
-Have any questions? Want to get in contact? Email me here: achen0816@berkeley.edu\
+Have any questions? Want to get in contact? Email me here: angelaychen@berkeley.edu\
 (I usually respond pretty quickly, and I swear I'm really friendly! :D)
 
 To view my experience and connect with me on LinkedIn, click [**here!**](https://www.linkedin.com/in/angela-chen-0a91811b6/)
