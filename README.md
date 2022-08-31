@@ -5,7 +5,7 @@ Hello! I'm a recent graduate with a Bachelor's degree in Computer Science from U
 Have any questions? Want to get in contact? Email me here: angelaychen@berkeley.edu\
 (I usually respond pretty quickly, and I swear I'm really friendly! :D)
 
-To view my experience and connect with me on LinkedIn, click [**here!**](https://www.linkedin.com/in/angela-chen-0a91811b6/)
+If you want to connect with me on LinkedIn, click [**here!**](https://www.linkedin.com/in/angela-chen-0a91811b6/)
 
 To see some things I've worked on and view my GitHub profile, click [**here!**](https://github.com/achen0816)
 
